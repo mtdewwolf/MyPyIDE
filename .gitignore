@@ -14,7 +14,7 @@ dist/
 *.egg-info/
 
 # PyCharm project files
-.idea/
+
 
 # Logs and databases
 *.log
